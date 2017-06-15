@@ -36,10 +36,10 @@ The Access Panel enables users to edit some of their profile settings, including
 
 ## Accessing the Access Panel
 Users access the Access Panel by visiting the following URL in a web browser: <br>
-**http://myapps.microsoft.com**
+**https://myapps.microsoft.com**
 
 If you have custom branding configured for your sign-in page, you can load this branding by default by appending your organization’s domain to the end of the URL: <br>
-**http://myapps.microsoft.com/contosobuild.com**
+**https://myapps.microsoft.com/contosobuild.com**
 
 In this case, you can use any active or verified domain name that has been configured under the **Domains** tab of your directory in the Azure portal, as illustrated in the following screenshot:
 
@@ -83,7 +83,7 @@ If you're an Azure administrator and you're signed in to the Azure portal by usi
 To test as a *different* user account:
 
 1. Click the user menu in the upper-right corner of the Azure portal or the Access Panel, and select **Sign Out**. This signs you out of Azure AD.
-2. Go to the [Access Panel](http://myapps.microsoft.com).
+2. Go to the [Access Panel](https://myapps.microsoft.com).
 3. On the sign-in page, enter the username and password for the account in your directory that you want to test.
 
 ## Starting applications
